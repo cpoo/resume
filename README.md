@@ -17,7 +17,7 @@
  - 期望地点: 深圳 > 厦门 > 杭州 
  
 ---
-# 技能树
+## 技能树
 
 ![](https://ohovav7hg.qnssl.com/techtree.jpeg)
 
