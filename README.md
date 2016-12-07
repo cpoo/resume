@@ -10,7 +10,7 @@
  - 张嘉炜/女/1995 
  - 本科/集美大学软件工程
  - 第二专业/集美大学金融学
- - 工作年限：1.5年
+ - 工作年限：2年
  - 技术社区:[Github](https://github.com/AppianZ)、[掘金](https://gold.xitu.io/user/57c664355bbb5000635314b6)、[SegmentFault](https://segmentfault.com/u/appian)
  - 技术博客：[http://appianz.github.io/](http://appianz.github.io/)
  - 期望职位：前端开发工程师
@@ -20,6 +20,7 @@
 # 技能树
 
 ![](https://ohovav7hg.qnssl.com/techtree.jpeg)
+
 
 ## 工作经历
 
