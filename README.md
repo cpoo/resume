@@ -19,7 +19,7 @@
 ---
 ## 技能树
 
-![](https://github.com/AppianZ/resume/blob/master/techTree.jpeg)
+![](https://github.com/AppianZ/resume/blob/master/techtree.png)
 
 
 ## 工作经历
