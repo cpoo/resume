@@ -71,7 +71,7 @@
 
 ## 个人项目
 
- - [multi-picker](https://github.com/AppianZ/multi-picker) : MultiPicker是为了满足移动端对各种选择器的需求而生的，兼容性强，灵活度高。目前已有几十万的实际用户正在使用。
+ - [multi-picker](https://github.com/AppianZ/multi-picker) : 多级联动自定义选择器插件，目前已有几十万的实际用户。
  - [react-router-tutorial-CN](https://github.com/AppianZ/react-router-tutorial-CN): react-router-tutorial官方教程翻译。
    
 <br/>
@@ -100,7 +100,7 @@
 - 了解微信开发、微信小程序
 - 了解mysql、数据结构
 - 熟练使用markdown
-<br/>
+
 ---
 
 ## 个人评价
