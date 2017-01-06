@@ -1,7 +1,7 @@
 ## 联系方式
 
 - 手机：185 5902 1624
-- Email：523938480@qq.com(也获得了微信和QQ)
+- Email：523938480@qq.com(同时获得了微信和QQ)
 
 ---
 
@@ -72,7 +72,8 @@
 ## 个人项目
 
  - [multi-picker](https://github.com/AppianZ/multi-picker) : MultiPicker是为了满足移动端对各种选择器的需求而生的，兼容性强，灵活度高。目前已有几十万的实际用户正在使用。
- 
+ - [react-router-tutorial-CN](https://github.com/AppianZ/react-router-tutorial-CN): react-router-tutorial官方教程翻译。
+   
 <br/>
 
 ## 技术文章
@@ -83,6 +84,8 @@
 - [组件改变生活_揭开Vue组件的神秘面纱](https://segmentfault.com/a/1190000005045219)
 - [『为移动端而生』的自定义多级联动选择器](https://gold.xitu.io/post/583faa050ce46300576216df)
 - [如何造一个移动端的联动选择器 - 系列](https://gold.xitu.io/post/583fb0312f301e005cf44aeb)
+- [一段人人都应该知道的从Vue到React的过渡史](https://gold.xitu.io/post/585b1f4b8d6d810065d02ac2)
+- [为什么我们选择Vue，而不选React（译）](https://gold.xitu.io/post/58606e361b69e6005622fc05)
 
 <br/>
 
@@ -90,10 +93,10 @@
 
 - 熟练使用html5、css3、sass，有丰富的移动端开发经验，能准确还原设计稿
 - 熟悉es2015，es2015+
-- 熟练使用mvvm框架，如vue，react
-- 熟悉状态管理工具如vuex，redux
+- 熟练使用mvvm框架vue，了解react
+- 熟悉状态管理工具vuex，了解redux
 - 了解node、express、Linux
-- 熟悉gulp、webpack自动化构建工具
+- 了解gulp、webpack自动化构建工具
 - 了解微信开发、微信小程序
 - 了解mysql、数据结构
 - 熟练使用markdown
