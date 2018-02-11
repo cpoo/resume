@@ -14,8 +14,8 @@
  - 毕业时间：2016年7月
  - 工作年限：2年
  - 技术博客：[http://appian.me.meckodo.com/](http://appian.me.meckodo.com/#/)
- - Github: [https://github.com/AppianZ](https://github.com/AppianZ) 
- - 技术社区:[segmentfault](https://segmentfault.com/u/appian)、[掘金](https://juejin.im/user/57c664355bbb5000635314b6/posts) 
+ - Github： [https://github.com/AppianZ](https://github.com/AppianZ) 
+ - 技术社区：[segmentfault](https://segmentfault.com/u/appian)、[掘金](https://juejin.im/user/57c664355bbb5000635314b6/posts) 
  - 期望职位：前端开发工程师
  - 期望薪资：税前月薪 15 - 16k，年薪19 - 20w
 ---
@@ -32,7 +32,7 @@
 > 技术栈： sass、vue、vuex、vue-router、webpack、gulp、express、loopback、typescript、nginx
 
 **项目介绍：** 
-这是平台体系包括与商户合作的独立平台、一些公共的业务平台、内部人员管理平台、微信端分销系统、展示类小程序等。
+这个平台体系包括与商户合作的独立平台、一些公共的业务平台、内部人员管理平台、微信端分销系统、展示类小程序等。
 
 **主要职责：** 
 负责所有项目的项目构建和权限控制，并负责主线业务的主要功能。2017年10月成为web组技术经理后，主要负责技术选型、技术传销、code review、scrum迭代，并配合后端架构变化，调整前后端对接方式。
@@ -54,7 +54,7 @@
 负责打卡圈微信端的“创建活动”、“活动设置”、“成员分组管理”、“反馈系统”、“提现系统”、“优惠券系统”等，并配合使用express进行数据直出。另外还负责活动配置平台的“活动设置”、“分组管理”等功能。并且基于这两个系统，构建了一套符合微信设计规范的移动端、PC端的UI组件库。
 
 **个人总结：** 
-对复杂逻辑和多状态数据的掌控更加得心应手，刺激自己从各个角度去思考优化和效率的问题，对优雅的数据处理和数据构造有了更深入的认识。在构建UI库的过程中，学习 iView 和 Ant-Design 的设计规范和组件思想，对组件有了更实际的切身理解。更重要的是，在设计组件的 api 的过程中，能够真真正正的站在开发者的角度上去思考组件的灵活性和复用性，以便使用者使用起来更舒适、更流畅。
+对复杂逻辑和多状态数据的掌控更加得心应手，刺激自己从各个角度去思考优化效率的问题，对优雅的数据处理和数据构造有了更深入的认识。在构建UI库的过程中，学习 iView 和 Ant-Design 的设计规范和组件思想，对组件有了更实际的切身理解。更重要的是，在设计组件的 api 的过程中，能够真真正正的站在开发者的角度上去思考组件的灵活性和复用性，以便使用者使用起来更舒适、更流畅。
 
 
 ### “熊猫书院”线上教育平台 
@@ -91,7 +91,7 @@
 ## 个人项目
 
  - [multi-picker](https://github.com/AppianZ/multi-picker) : MultiPicker是为了满足移动端对各种选择器的需求而生的，兼容性强，灵活度高。目前已有几十万 的实际用户正在使用。
- - [calendar](https://github.com/AppianZ/calendar) : Calendar是为了满足移动端对各种选择器的需求而生的，兼容性强，灵活度高的原生插件，可以与任何框架配合使用。
+ - [calendar](https://github.com/AppianZ/calendar) : Calendar是为了满足移动端对日历插件的各种需求而生的，兼容性强，灵活度高的原生插件，可以与任何框架配合使用。
  - [Close2Vue](https://github.com/AppianZ/Close2Vue) : Vue1.0的教程，项目内容结合个人开发经验和遇到的常见问题，并配合详细易懂的文章进行解说。
  
 
